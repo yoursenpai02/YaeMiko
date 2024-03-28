@@ -1,9 +1,9 @@
 {
-   "name": "Yae Miko",
+   "name": "𝙄𝙎𝙃𝘼 𓆩♡𓆪 𝙎𝙀𝙉𝙋𝘼𝙄",
    "description": "A versatile Telegram Group Management Bot.",
-   "logo": "https://telegra.ph/file/4d370b478d90d98709398.jpg",
-   "keywords": ["telegram", "modular", "group", "management", "Miko"],
-   "repository": "https://github.com/Infamous-Hydra/YaeMiko",
+   "logo": "https://telegra.ph/file/22ce4b920174bc91a01f7.jpg",
+   "keywords": ["telegram", "modular", "group", "management", "Isha"],
+   "repository": "https://github.com/yoursenpai02/YaeMiko",
    "stack": "heroku-22",
    "addons": [
       {
